@@ -104,17 +104,6 @@ The final KNN model was tested on an unseen observation.
 - Absolute Error: **25.06 Mbps**
 - Approximate Error: **1.55%**
 
----
-
-## 📁 Project Structure
-
-```text
-internet-speed-prediction-ml/
-│
-├── README.md
-├── Internet_Speed_Prediction.ipynb
-├── Internet_Speed_Prediction.html
-│
 ├── dataset/
 │   └── internet_speed.csv
 │
