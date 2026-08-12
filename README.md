@@ -104,8 +104,4 @@ The final KNN model was tested on an unseen observation.
 - Absolute Error: **25.06 Mbps**
 - Approximate Error: **1.55%**
 
-├── dataset/
-│   └── internet_speed.csv
-│
-└── images/
-    └── project-screenshot.png
+Dataset Source: https://www.kaggle.com/datasets/getanmolgupta01/internet-speed
